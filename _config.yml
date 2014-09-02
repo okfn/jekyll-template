@@ -1,0 +1,5 @@
+title: Your Site Title
+# baseurl: /my-subsite
+# github: http://github.com/okfn/...
+markdown: kramdown
+# googleanalytics: 
