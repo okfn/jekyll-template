@@ -1,5 +1,12 @@
 title: Your Site Title
+author: Open Knowledge Labs
+authorurl: http://okfnlabs.org/
 # baseurl: /my-subsite
-# github: http://github.com/okfn/...
+# optional links (will go in navbar and footer)
+github: http://github.com/okfn/...
+mailinglist: http://lists.okfn.org/mailman/listinfo/okfn-labs
+twitter: OKFNLabs
 markdown: kramdown
+# show the open knowledge ribbon/panel
+openknowledgeribbon: true
 # googleanalytics: 
