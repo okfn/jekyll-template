@@ -60,12 +60,6 @@ blockquote p {
   * Navigation
   *********************************************************/
 
-.navbar-brand img {
-  height: 35px;
-  margin-top: -3px;
-  margin-right: 3px;
-}
-
 .navbar {
   background: #e0e7eb;
   padding-top: 0px;
@@ -74,8 +68,13 @@ blockquote p {
 .navbar .navbar-brand {
   font-size: 22px;
   color: #434C50;
-  padding-top: 9px;
-  padding-bottom: 4px;
+}
+
+.navbar-brand img {
+  height: 35px;
+  margin-top: -9px;
+  margin-bottom: -6px;
+  margin-right: 3px;
 }
 
 .navbar .divider-vertical {
