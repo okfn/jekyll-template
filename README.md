@@ -2,7 +2,8 @@ Open Knowledge template for Github Pages (Jekyll) websites.
 
 ## How to use
 
-Copy relavant template from `_layouts` into `_layouts` for your site.
+Copy relavant template from `_layouts/default-v{X}.html` into
+`_layouts/default.html` for your site.
 
 Check out `demo-v{X}.html` for an example page.
 
